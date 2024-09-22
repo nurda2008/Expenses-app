@@ -1,4 +1,6 @@
-
+::-webkit-scrollbar {
+  width: 0;
+}
 .container{
     font-family: inter;
     font-weight: 400;
